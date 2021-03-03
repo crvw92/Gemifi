@@ -161,7 +161,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-06YVegeIawBlKe\/7WSdL2HNE0ExbrQAa8hf8hKojrxY=",
+      "hash": "sha256-72Pw42UVJBckkilr4yiWRLe9hAC+pOWxNT89crEl62Q=",
+      "url": "_framework\/vGems.Shared.dll"
+    },
+    {
+      "hash": "sha256-Fq47kSlKIVdGL8KFeEN3lzO0qiTLmHHf3U0gn+2ty\/Q=",
       "url": "_framework\/Gemifi.dll"
     },
     {
@@ -237,7 +241,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-Y0ibhbMQjLDbvXGIsYglhZileYPVL+20clB1oEXRUv4=",
+      "hash": "sha256-VF3oCZo3+2ExJOjYA1wKP5NXFK5HAw9I8Ec8GV\/1AjU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -245,5 +249,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "992G2qCV"
+  "version": "SVB9HY\/a"
 };
